@@ -1,0 +1,259 @@
+body {
+    letter-spacing: 5px;
+    text-indent: 10px;
+    font-family: sans-serif;
+    line-height: 1.35;
+    background-color: lightsteelblue;
+}
+
+table {
+    padding-left: 100px;
+}
+
+td {
+    text-align: right;
+}
+
+th {
+    text-align: left;
+}
+
+sup {
+    font-size: small;
+}
+
+.sub {
+    font-size: small;
+}
+
+p {
+    color: teal;
+    font-style: normal;
+    text-indent: 20px;
+    padding-left: 20px;
+    padding-right: 15px;
+}
+
+li {
+    
+    font-style: oblique;
+    font-size: 12pt;
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+h1 {
+    padding-left: 50px;
+}
+
+h2 {
+    padding-left: 20px;
+}
+
+h4 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.page {
+    max-width: 1200px;
+}
+
+header {
+    position: absolute;
+    left: 75px;
+    padding-bottom: 10px;
+    
+}
+
+.home {
+    position: absolute;
+    left: 75px;
+    top: 1380px;
+    padding-bottom: 10px;
+}
+
+.price {
+    position: absolute;
+    left: 75px;
+    top: 1975px;
+    padding-bottom: 10px;
+}
+
+ul {
+    display: inline;
+}
+
+img {
+    
+    
+}
+
+.cash {
+    background-color: lawngreen;
+    color: darkgreen;
+    position: absolute;
+    left: 500;
+    top: 400;
+    width: 240;
+    font-style: oblique;
+    padding-left: 40px; 
+    
+    
+}
+
+.pic1 {
+    border: 12px solid orangered;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 30px;
+    left: 875px;
+    padding: none;
+}
+
+.pic2 {
+    border: 12px solid orangered;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 140px;
+    left: 875px;
+    padding: none;
+}
+
+.pic3 {
+    border: 12px solid orangered;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 370px;
+    left: 875px;
+    padding: none;
+}
+
+.pic4 {
+    border: 12px solid orangered;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 600px;
+    left: 875px;
+    padding: none;
+}
+
+.pic5 {
+    border: 12px solid green;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 1050px;
+    left: 875px;
+    padding: none;
+}
+
+.pay {
+    border: 12px solid goldenrod;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 30px;
+    left: 875px;
+    width: 400px;
+    background-color: beige;
+}
+
+.does {
+    border: 12px solid goldenrod;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 875px;
+    left: 875px;
+    width: 400px;
+    background-color: beige;
+}
+
+.bottom {
+    border: 12px solid hotpink;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 1715px;
+    left: 30px;
+    width: 800px;
+    height: 223px;
+    background-color: beige;
+}
+
+
+
+
+.aside {
+    border: 12px solid pink;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 678px;
+    left: 875px;
+    width: 400px;
+    background-color: beige;
+}
+
+
+.Welcome {
+    
+    border: 12px solid blue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    left:30px;
+    top: 30px;
+    text-indent: 20px;
+    font-size: 16pt;
+    width: 800px;
+    background-color: beige;
+    
+}
+
+.convenient {
+    border: 12px solid green;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: absolute;
+    top: 884px;
+    left: 875px;
+    text-indent: 20px;
+    font-size: 13pt;
+    width: 400px;
+    background-color: beige;
+    
+}
